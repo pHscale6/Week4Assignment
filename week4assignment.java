@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 // Paul Hyde
 package week4assignment;
 import java.util.Scanner;
